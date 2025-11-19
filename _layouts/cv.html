@@ -1,16 +1,38 @@
 <!doctype html>
 <html>
-<head>
-  <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
-  <link href="media/{{ site.style }}-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/{{ site.style }}-print.css" type="text/css" rel="stylesheet" media="print">
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-    {{ content }}
-    </div>
-  </div>
-</body>
+    <head>
+        <meta charset="utf-8" />
+        <title>{% if page.title %} {{ page.title }} | {% endif %} CV</title>
+        <link
+            href="media/{{ site.style }}-screen.css"
+            type="text/css"
+            rel="stylesheet"
+            media="screen"
+        />
+        <link
+            href="media/{{ site.style }}-print.css"
+            type="text/css"
+            rel="stylesheet"
+            media="print"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/fontawesome.min.css"
+            integrity="sha512-M5Kq4YVQrjg5c2wsZSn27Dkfm/2ALfxmun0vUE3mPiJyK53hQBHYCVAtvMYEC7ZXmYLg8DVG4tF8gD27WmDbsg=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/brands.min.css"
+            integrity="sha512-WxpJXPm/Is1a/dzEdhdaoajpgizHQimaLGL/QqUIAjIihlQqlPQb1V9vkGs9+VzXD7rgI6O+UsSKl4u5K36Ydw=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+    </head>
+    <body>
+        <div id="main">
+            <div id="content">{{ content }}</div>
+        </div>
+    </body>
 </html>
