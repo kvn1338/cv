@@ -58,7 +58,7 @@ Built and maintained features for an e-commerce platform and internal tools, cov
 
 ## Personal
 
-- Residence: Berlin, Germany
+Residence: Berlin, Germany
 
 <!-- ### Footer
 
