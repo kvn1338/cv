@@ -34,7 +34,7 @@ OSCP- and CRTO-certified IT Security Consultant and Penetration Tester specializ
 ## Professional Experience
 
 `2023-present` **Security Consultant**, *SSE - Secure Systems Engineering GmbH*  
-Conducting penetration tests across web applications, infrastructure, mobile and cloud environments, including source code reviews. Performing scenario-based assessments, red team engagements and physical security assessments for clients in the finance, telecommunication, chemical, banking and automotive sectors. Developing internal security tooling to improve testing efficiency and custom implants to support red team operations.
+Conducting penetration tests and security assessments (web/API, infrastructure, mobile, cloud, and source code reviews), including scenario-based testing, red team engagements, and physical security assessments, for clients across finance, telecommunications, chemicals, automotive, infrastructure and education. Developing internal security tooling to improve testing efficiency and build custom capabilities to support red team operations.
 
 `2020-2023` **TISO / IT Security Engineer**, *Deutsche Bank AG (Corporate Banking Technology)*  
 Worked as an IT security engineer with technical information security officer (TISO) responsibilities for Corporate Banking Technology. Supported the migration from on-premises systems to cloud environments by advising on security architecture, conducting risk assessments and helping to implement appropriate security controls. Collaborated with development teams to integrate security requirements and review security-relevant changes.
