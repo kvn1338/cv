@@ -11,6 +11,8 @@ IT Security Consultant, Penetration Tester
 | <a href="https://github.com/kvn1338"><i class="fa-brands fa-github"></i>kvn1338</a>
 </div>
 
+<img src="media/pic.jpg" alt="Kevin Wetzler" title="Kevin Wetzler" class="profile-pic">
+
 ## Career Profile
 
 OSCP- and CRTO-certified IT Security Consultant and Penetration Tester specialising in offensive security, red teaming and bespoke tooling. Former software engineer with a strong background in web development, now focused on adversary simulation, complex enterprise environments and applications.
@@ -32,7 +34,7 @@ OSCP- and CRTO-certified IT Security Consultant and Penetration Tester specialis
 ## Education
 
 `2010–2021` **B.Sc. Computer Science**, *Humboldt University of Berlin*  
-`2002–2010` **Heinrich-Böll-Schule (bilingual secondary school)**, *Berlin* — Abitur, grade 1.7
+`2002–2010` **Heinrich-Böll-Schule (bilingual secondary school)**, *Berlin* — Abitur
 
 ## Professional Experience
 
@@ -61,4 +63,4 @@ Built and maintained features for an e-commerce platform and internal tools, cov
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->

@@ -268,7 +268,89 @@ strong {
     display: none;
 }
 
+.profile-pic {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    float: right;
+    margin-top: -7em;
+    margin-right: 4em;
+}
+
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+@media only screen and (max-width: 1200px) {
+    h2 {
+        margin-top: 0em;
+        margin-bottom: 0.25em;
+    }
+    .profile-pic {
+        float: none;
+        display: block;
+        margin: 0 auto;
+        margin-top: 1em;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        margin-left: 0.75em;
+        margin-right: 0.75em;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 2em;
+        left: 0;
+    }
+
+    h2 {
+        position: static;
+        text-align: left;
+        width: 100%;
+        margin-top: 1.5em;
+        margin-bottom: 0.25em;
+    }
+
+    h3 {
+        position: static;
+        text-align: left;
+        width: 100%;
+    }
+
+    p {
+        left: 0;
+        width: 100%;
+    }
+
+    p code {
+        position: static;
+        display: inline;
+        text-align: left;
+    }
+
+    ul {
+        left: 0;
+        width: 100%;
+    }
+
+    #webaddress {
+        left: 0;
+        font-size: 85%;
+    }
+
+    .profile-pic {
+        float: none;
+        display: block;
+        margin: 1rm auto;
+    }
+}
