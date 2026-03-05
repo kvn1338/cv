@@ -21,9 +21,9 @@ OSCP- and CRTO-certified IT Security Consultant and Penetration Tester specializ
 
 - **Offensive Security**: Penetration testing (Web/API, AD, infrastructure, mobile, cloud), red teaming and adversary simulation, physical security assessments
 - **Tradecraft**: C2 ops, OPSEC, payload development, defense evasion, reporting
-- **Tools & Frameworks**: Burp Suite, Metasploit, Cobalt Strike, BloodHound, Impacket, Rubeus
 - **Engineering**: Tooling, automation, reproducible environments, CI for internal tools, code review
 - **Defensive Security**: Security architecture and design reviews, source code analysis, vulnerability assessment, threat modelling
+- **Tools & Frameworks**: Burp Suite, Metasploit, Cobalt Strike, BloodHound, Impacket, Rubeus
 - **Languages**: German (native), English (fluent, written and spoken)
 
 ## Certifications
