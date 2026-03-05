@@ -28,7 +28,7 @@ OSCP- and CRTO-certified IT Security Consultant and Penetration Tester specializ
 
 ## Certifications
 
-`10/2025` **CRTO – Certified Red Team Operator**, *Zero-Point Security*
+`10/2025` **CRTO – Certified Red Team Operator**, *Zero-Point Security*  
 `11/2022` **OSCP – Offensive Security Certified Professional**, *Offensive Security*
 
 ## Professional Experience
