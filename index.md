@@ -19,9 +19,9 @@ OSCP- and CRTO-certified IT Security Consultant and Penetration Tester specializ
 
 ## Core Competencies
 
-- **Offensive Security**: Penetration testing (Web/API, AD, infrastructure, mobile, cloud), red teaming and adversary simulation, physical security assessments
-- **Tradecraft**: C2 ops, OPSEC, payload development, defense evasion, reporting
-- **Engineering**: Tooling, automation, reproducible environments, CI for internal tools, code review
+- **Offensive Security**: Penetration testing across web/API, Active Directory, infrastructure, mobile and cloud environments; red teaming, adversary simulation and physical security assessments
+- **Red Team Tradecraft**: C2 operations, post-exploitation, lateral movement, OPSEC, payload development, defense evasion and reporting
+- **Security Engineering & Automation**: Custom offensive tooling, payload and implant development, reproducible test environments, LLM-assisted security testing and agentic workflow prototyping
 - **Defensive Security**: Security architecture and design reviews, source code analysis, vulnerability assessment, threat modelling
 - **Tools & Frameworks**: Burp Suite, Metasploit, Cobalt Strike, BloodHound, Impacket, Rubeus
 - **Languages**: German (native), English (fluent, written and spoken)
